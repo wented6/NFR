@@ -1,10 +1,6 @@
-﻿token=
+token=NTIyMzQ5MDYxODY1NzM0MTY0.DvJr9w.vLDUBridAQKE8t59TuPbeUYtDpY
 owner=228139766573432832 
-
-prefix= 1
-
-game= Universe Bot.
-
+prefix= Nf
+game= أميل الى العزلة كلما مالت علي الحياة ☬
 stayinchannel=true
-
 songinstatus=false

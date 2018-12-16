@@ -2,5 +2,5 @@ token=NTIyMzQ5MDYxODY1NzM0MTY0.DvJr9w.vLDUBridAQKE8t59TuPbeUYtDpY
 owner=429640585683664897 
 prefix= Nf
 game= أميل الى العزلة كلما مالت علي الحياة ☬
-stayinchannel=false
+stayinchannel=true
 songinstatus=false

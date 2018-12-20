@@ -1,6 +1,6 @@
 token=NTIyMzQ5MDYxODY1NzM0MTY0.DvJr9w.vLDUBridAQKE8t59TuPbeUYtDpY
-owner=429640585683664897 
+owner=429616669162471444
 prefix= Nf
-game= أميل الى العزلة كلما مالت علي الحياة ☬
+game= لا شيء سوى الموسيقى التي تخترق هذه العزلة الموهلة لارواحنا...!
 stayinchannel=true
 songinstatus=false
